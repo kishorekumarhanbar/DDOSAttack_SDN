@@ -1,4 +1,4 @@
-Project repository for Systems Software [CMPE220] - Fall 2015
+Project repository for Systems Software [EE210]
 
 PROJECT TITLE: SDN based threat vector and security solutions.
 
@@ -11,7 +11,7 @@ Folder Contents: Classification
 2. Presentation
     This directory contains the presentation file which provides an overview of the project.
     Proposal.pptx - intial presentation used for project proposal
-    CMPE220_Team_SPRINT_Presentation.pptx - Final presentation for the project.
+    EE210_Team_SPRINT_Presentation.pptx - Final presentation for the project.
 
 3. Progress report
     Provides the informations on the progress of the report on a weekly basis. It contains 
@@ -43,7 +43,7 @@ Folder Contents: Classification
     Introduction.mov --Introduction to team members
     DDOS_Detection.mov --Demo of DDoS attack and detection
     DDOS_Prevention.mov --Demo of DDoS attack and prevention
-    CMPE220_demo.mp4 -- Final demo, aggregate of the above 3 videos
+    EE210_demo.mp4 -- Final demo, aggregate of the above 3 videos
 
 8. Logs
     This directory lists the logs that were collected during the demo. 
